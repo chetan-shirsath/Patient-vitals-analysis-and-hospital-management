@@ -1,10 +1,9 @@
-Team Name : Backend Boys
+#Patient vitals analysis and hospital management
 
 Chetan Shirsath - 001403780
 Dhairyasheel Surve - 001417039
 Sarthak Hoshangabade - 001402616
 
-Project Topic : Speedy Survival Rate Analysis and Alert System
 
 Overview : Whenever patient with heart case like cardiac arrest or heart attack is brought in as emergency, doctors face difficulty in determining the survival rate of the patient.Once the survival rate or risk of death is determined, doctors can take immediate course of action to save the life of later.The objective of the application is to compare the vitals of patient with the ideal vital conditions and determine his survival rate after comparative analysis. One more feature is to fire alerts to doctors and hospital staff depending on the graveness of patients risk.
 
